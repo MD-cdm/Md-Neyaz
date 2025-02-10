@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MD-cdm](https://github.com/MD-cdm)
 
 - 📫 How to reach me **mdneyaz130012@gmail.com**
+- - 📖 *Portfolio*: [ashhar-khalid-portfolio.netlify.ap](https://ashhar-khalid-portfolio.netlify.app)
 
 - 📄 Know about my experiences [https://ivory-caty-92.tiiny.site](https://ivory-caty-92.tiiny.site)
 
